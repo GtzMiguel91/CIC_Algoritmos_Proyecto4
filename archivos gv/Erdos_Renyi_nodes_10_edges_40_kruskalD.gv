@@ -1,0 +1,21 @@
+digraph Erdos_Renyi_nodes_10_edges_40_kruskalD {
+"5";
+"6";
+"1";
+"2";
+"7";
+"8";
+"4";
+"0";
+"9";
+"3";
+"2" -> "6" [weight=1];
+"2" -> "7" [weight=2];
+"1" -> "2" [weight=3];
+"9" -> "2" [weight=8];
+"2" -> "5" [weight=9];
+"8" -> "7" [weight=9];
+"3" -> "6" [weight=12];
+"0" -> "9" [weight=15];
+"9" -> "4" [weight=16];
+}
